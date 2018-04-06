@@ -1,0 +1,32 @@
+@import 'sky.scss';
+@import 'clouds';
+@import 'mountain.scss';
+@import 'noise.scss';
+
+.hero {
+  position: relative;
+  width: 100%;
+  height: 90vh;
+  overflow: hidden;
+}
+
+.hero__container {
+  width: 100%;
+  height: 100%;
+}
+
+.hero__bg {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+
+.hero__content {
+  position: absolute;
+  top: 30%;
+  left: 5%;
+  z-index: 50;
+}
+
+

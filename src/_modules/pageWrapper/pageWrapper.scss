@@ -1,0 +1,10 @@
+.pageWrapper {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  transition: top 1s;
+}
+
+.pageWrapper.toSea {
+  top: -100%;
+}

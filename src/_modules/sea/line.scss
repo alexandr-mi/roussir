@@ -1,0 +1,17 @@
+.sea__bg-lines {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 10%;
+  overflow: hidden;
+}
+
+.hero__bg-line {
+  position: absolute;
+  fill: red;
+
+  &-1 {
+    top: 0;
+  }
+}

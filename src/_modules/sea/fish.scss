@@ -1,0 +1,31 @@
+.sea__bg-fish {
+  z-index: 3;
+  position: absolute;
+
+  &-1 {
+    top: 80%;
+    left: -5%;
+    width: 20%;
+  }
+  &-2 {
+    top: 20%;
+    left: -10%;
+    transform: scale(-1, 1);
+    width: 15%;
+  }
+  &-3 {
+    top: 75%;
+    left: 70%;
+    width: 15%;
+  }
+  &-4 {
+    top: 30%;
+    left: 90%;
+    width: 20%;
+  }
+  &-5 {
+    top: 40%;
+    left: 35%;
+    width: 25%;
+  }
+}

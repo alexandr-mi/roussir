@@ -1,0 +1,29 @@
+@media screen and (max-width : 600px) {
+  .content {
+    width: 375px;
+    left: 5px;
+  }
+
+  .title {
+    font-size: 80px;
+    line-height: 1;
+  }
+  .text {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width : 380px) {
+  .content {
+    width: 300px;
+    left: 5px;
+  }
+
+  .title {
+    font-size: 60px;
+    line-height: 0.8;
+  }
+  .text {
+    font-size: 10px;
+  }
+}
