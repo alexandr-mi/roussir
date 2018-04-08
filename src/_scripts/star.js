@@ -1,0 +1,6 @@
+
+function createStar() {
+
+}
+
+export {createStar}
