@@ -1,6 +1,6 @@
 const doc = {
   sea: document.querySelector('.sea'),
-  space: document.querySelector('.space'),
+  space__bgStars: document.querySelector('.space__bg-stars'),
   scrollButton: document.querySelector('.button-more'),
   pageWrapper: document.querySelector('.pageWrapper'),
   seaContentLeft: document.querySelector('.sea__content-left'),
